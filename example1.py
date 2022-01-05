@@ -13,7 +13,7 @@ def func1(arg1,arg2):
     return arg1
 
 def func2():
-    """"function with no arguments return None
+    """function with no arguments return None
 
     Returns:
         None: None
